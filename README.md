@@ -16,16 +16,58 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - **Thales Group**
 - **WEX**
 
-
-
 <div>
-  <p>Na <a href="https://www.linkedin.com/in/qa-diego-souza" target="_blank">Motorola</a>, atuei como Engenheiro de Qualidade de Software, onde fui responsável por garantir a qualidade dos produtos de software através de testes rigorosos e automação. Contribuí para a melhoria contínua dos processos de QA, implementando novas ferramentas e metodologias que aumentaram a eficiência e a cobertura dos testes.</p>
+  <h3>Motorola Mobility (a Lenovo Company)</h3>
+  <h4>Estagiário de Engenharia de Testes</h4>
+  <p>Campinas e Região, Brasil</p>
+  <p>jan de 2017 - dez de 2017</p>
+  <ul>
+    <li>Auxiliei na análise de projetos e na geração de gráficos e relatórios.</li>
+    <li>Acompanhei a análise de custos de produtos sob supervisão.</li>
+    <li>Analisei a capacidade dos equipamentos de teste e propus melhorias.</li>
+    <li>Contribuí na implementação e melhoria de projetos de hardware e software.</li>
+    <li>Auxiliei na codificação, teste e correção de programas de testes.</li>
+    <li>Analisei dados de qualidade e produtividade das estações de teste, propondo melhorias.</li>
+    <li>Controlei o inventário de equipamentos de teste, expansão e substituição.</li>
+    <li>Utilizei ferramentas matemáticas como First Time Yield (FTY), CP, CPK, No Trouble Found (NTF) e Pareto.</li>
+    <li>Participei da execução do FMEA (Failure Modes and Effects Analysis) e do PFMEA (Process Failure Modes and Effects Analysis).</li>
+  </ul>
+</div>
+<div>
+  <h3>Samsung Brasil</h3>
+  <h4>Engenheiro de Testes Júnior</h4>
+  <p>Campinas e Região, Brasil</p>
+  <p>jun de 2019 - out de 2021 · 2 anos 5 meses</p>
+  <ul>
+    <li>Criação de casos de testes manuais e automáticos para o assistente inteligente Bixby.</li>
+    <li>Acompanhar e reportar bugs, garantindo a qualidade e a confiabilidade do produto - Q&A.</li>
+    <li>Performar testes e bug review.</li>
+  </ul>
+</div>
+<div>
+  <h3>CESAR</h3>
+  <h4>Engenheiro de Testes Júnior</h4>
+  <p>Recife, Pernambuco, Brasil</p>
+  <p>out de 2021 - jun de 2023 · 1 ano 9 meses</p>
+  <ul>
+    <li>Análise, modelagem, implementação e execução de testes manuais e automáticos.</li>
+    <li>Execução de testes em ambientes diversos e de homologação.</li>
+    <li>Suporte ao time de desenvolvimento no esclarecimento de bugs reportados.</li>
+    <li>Documentar e reportar defeitos e não conformidades do produto.</li>
+    <li>Redigir documentação de testes e processos de qualidade de software.</li>
+    <li>Preparar o ambiente, massa de dados e pré-requisitos necessários para a execução dos casos de testes.</li>
+    <li>Redação de relatórios e apresentações.</li>
+    <li>Conhecimentos em DBeaver, GIT, JIRA, BDD e correlatos.</li>
+    <li>Automação de testes com Cypress ou Selenium e correlatos.</li>
+  </ul>
+</div>
   
-  <p>Durante minha passagem pela <a href="https://www.linkedin.com/in/qa-diego-souza" target="_blank">Samsung</a>, trabalhei como Especialista em QA, focando em testes de dispositivos móveis. Colaborei com equipes multidisciplinares para desenvolver e executar planos de teste que asseguraram a alta qualidade dos produtos lançados no mercado. Minha atuação foi crucial para a detecção precoce de bugs e problemas de desempenho, garantindo uma experiência de usuário superior.</p>
-  
-  <p>No <a href="https://www.linkedin.com/in/qa-diego-souza" target="_blank">Thales Group</a>, desempenhei o papel de Engenheiro de Qualidade de Software, onde participei de projetos de alta segurança e tecnologia avançada. Minha principal responsabilidade foi a validação de sistemas críticos, utilizando técnicas de teste automatizado e manual para assegurar a conformidade com os padrões de segurança e desempenho exigidos pela indústria.</p>
-  
-  <p>Na <a href="https://www.linkedin.com/in/qa-diego-souza" target="_blank">WEX</a>, atuei como Engenheiro de QA, focando em soluções de pagamento e tecnologia financeira. Desenvolvi e implementei estratégias de teste para garantir a robustez e a segurança das plataformas de pagamento. Minha contribuição foi essencial para a entrega de produtos confiáveis e seguros, atendendo às necessidades dos clientes e regulamentos do setor.</p>
+<p>Quality Assurance Specialist IIQuality Assurance Specialist II
+WEX · Tempo integralWEX · Tempo integral
+set de 2023 - jun de 2024 · 10 mesesDe set de 2023 até jun de 2024 · 10 meses
+Portland, Maine, United States · RemotaPortland, Maine, United States · Remota
+Principais atividades: Análise, modelagem, implementação e execução de testes manuais e automáticos; Executar testes em diversos ambientes e homologação; Apoiar a equipe de desenvolvimento abordando e esclarecendo bugs reportados; Documentar e relatar defeitos e não conformidades do produto; Escrever documentação do processo de qualidade de software; Preparar o ambiente, massa de dados e pré-requisitos necessários para a execução dos casos de teste; Redação de relatórios e apresentações; Conhecimento em AZDO; Automação de testes com Robot Framework.Principais atividades: Análise, modelagem, implementação e execução de testes manuais e automáticos; Executar testes em diversos ambientes e homologação; Apoiar a equipe de desenvolvimento abordando e esclarecendo bugs reportados; Documentar e relatar defeitos e não conformidades do produto; Escrever documentação do processo de qualidade de software; Preparar o ambiente, massa de dados e pré-requisitos necessários para a execução dos casos de teste; Redação de relatórios e apresentações; Conhecimento em AZDO; Automação de testes com Robot Framework.
+Competências: SQL · Python (Programming Language) · Robot Framework</p>
 </div>
 
 ## Formação e Treinamentos
