@@ -37,9 +37,9 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 
 **Code**
 <div>
-  <a href="Python" target="_blank"><img src="https://icongr.am/devicon/python-original.svg?size=100&color=currentColor" target="_blank"></a>
-  <a href="Javascript" target="_blank"><img src="https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor" target="_blank"></a>
-  <a href="HTML5" target="_blank"><img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=100&color=currentColor" target="_blank"></a>
+  <a href="Python" target="_blank"><img src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" target="_blank"></a>
+  <a href="Javascript" target="_blank"><img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" target="_blank"></a>
+  <a href="HTML5" target="_blank"><img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=50&color=currentColor" target="_blank"></a>
 </div>
 
 **Database**
@@ -73,10 +73,10 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - Android
 -->
 <div>
-  <a href="Windows" target="_blank"><img src="https://icongr.am/devicon/windows8-original.svg?size=100&color=currentColor" target="_blank"></a>
-  <a href="Linux" target="_blank"><img src="https://icongr.am/devicon/linux-original.svg?size=100&color=currentColor" target="_blank"></a>
-  <a href="MacOS" target="_blank"><img src="https://icongr.am/devicon/apple-original.svg?size=100&color=currentColor" target="_blank"></a>
-  <a href="Android" target="_blank"><img src="https://icongr.am/devicon/android-original.svg?size=100&color=currentColor" target="_blank"></a> 
+  <a href="Windows" target="_blank"><img src="https://icongr.am/devicon/windows8-original.svg?size=50&color=currentColor" target="_blank"></a>
+  <a href="Linux" target="_blank"><img src="https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor" target="_blank"></a>
+  <a href="MacOS" target="_blank"><img src="https://icongr.am/devicon/apple-original.svg?size=50&color=currentColor" target="_blank"></a>
+  <a href="Android" target="_blank"><img src="https://icongr.am/devicon/android-original.svg?size=50&color=currentColor" target="_blank"></a> 
 </div>
 
 **Device Farm**
