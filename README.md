@@ -18,19 +18,76 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - **Nome do Projeto 3**: Descrição breve do projeto.
 
 ## Habilidades
-- Python
-- Selenium
-- Robot Framework
-- RabbitMQ
+
+**Code**
+- Python, Javascript e Prompt
+
+**Database**
+- Oracle
+- MariaDB
 - MySQL
+- DBeaver
+- MySQL Workbench
+
+**Vamos conversar sobre**
+- Massa Fresca, Risoto, Carne e Cerveja
+- Convergência Homen Máquina e a Singularidade
+- Cafés especiais
+
+**FrontEnd Test**
+- WEB:[Selenium Webdriver, Robot Framework]
+
+**Backend Test**
+- JS: Working in progress
+- API: [Postman, Insomnia, RobotFramwork]
+- Performance: [K6, Jmeter]
+
+**OS**
+- Windows
+- Linux: [Fedora, Ubuntu]
+- MacOS
+- Android
+
+**Device Farm**
+- Browserstack
+
+**Cloud**
+- AWS
+
+**Virtualization**
+- Working in progress
+
+**Locator Strategies**
+- Xpath
+- CSS Selector
+- Id
+
+**IDEs**
+- IntelliJ
+- VSCode
+- Microsoft Visual Studio
+
+**CI/CD**
+- Gitlab
+
+**Managment Tools**
+- Trello
+- Azure Devops (AZDO)
+- Jira
+
+**Agile Methodologies**
+- Kanban
+- Scrum
+- Waterfall
 
 ## Interesses Pessoais
 - **Culinária**: Adoro cozinhar e experimentar novas receitas.
 - **Música**: Fã de Imagine Dragons e Arctic Monkeys.
 
 ## Contato
-- LinkedIn
-- Email
+- LinkedIn: 
+- Email: qa.diegosouza@gmail.com
+- Whatsapp: +55 (19) 971-454-773
 
 ---
 
