@@ -10,7 +10,7 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - **WEX**
 
 ## Formação e Treinamentos
-- **Training Trip na Coreia do Sul [Fevereiro de 2020]**: Participação em um programa de treinamento intensivo focado em tecnologias emergentes e inovação.
+- **Training Trip na Coreia do Sul [Fevereiro de 2020]** :Participação em um programa de treinamento intensivo focado em tecnologias emergentes e inovação.
 
 ## Projetos
 - **Nome do Projeto 1**: Descrição breve do projeto.
@@ -30,12 +30,12 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - MySQL Workbench
 
 **Backend Test**
-- JS: Working in progress
+- JS: [Working in progress]
 - API: [Postman, Insomnia, RobotFramwork]
 - Performance: [K6, Jmeter]
 
 **FrontEnd Test**
-- WEB:[Selenium Webdriver, Robot Framework]
+- WEB: [Selenium Webdriver, Robot Framework]
 
 **OS**
 - Windows
