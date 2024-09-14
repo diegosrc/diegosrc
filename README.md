@@ -48,8 +48,11 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - MacOS
 - Android
 
-<div> 
-  <a href="Android" target="_blank"><img src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" target="_blank"></a>  
+<div>
+  <a href="Windows" target="_blank"><img src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" target="_blank"></a>
+  <a href="Linux" target="_blank"><img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" target="_blank"></a>
+  <a href="MacOS" target="_blank"><img src="https://icongr.am/devicon/apple-original.svg?size=128&color=currentColor" target="_blank"></a>
+  <a href="Android" target="_blank"><img src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" target="_blank"></a> 
 </div>
 
 **Device Farm**
