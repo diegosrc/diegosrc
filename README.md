@@ -4,10 +4,6 @@
   <a href="Windows" target="_blank"><img src="" target="_blank"></a>
   <a href="Linux" target="_blank"><img src="" target="_blank"></a>
   <a href="MacOS" target="_blank"><img src="" target="_blank"></a>
-  <a href="Android" target="_blank"><img src="" target="_blank"></a>
-  <a href="Windows" target="_blank"><img src="" target="_blank"></a>
-  <a href="Linux" target="_blank"><img src="" target="_blank"></a>
-  <a href="MacOS" target="_blank"><img src="" target="_blank"></a>
   <a href="Android" target="_blank"><img src="" target="_blank"></a> 
 </div>
 -->
@@ -19,6 +15,18 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - **Samsung**
 - **Thales Group**
 - **WEX**
+
+
+
+<div>
+  <p>Na <a href="https://www.linkedin.com/in/qa-diego-souza" target="_blank">Motorola</a>, atuei como Engenheiro de Qualidade de Software, onde fui responsável por garantir a qualidade dos produtos de software através de testes rigorosos e automação. Contribuí para a melhoria contínua dos processos de QA, implementando novas ferramentas e metodologias que aumentaram a eficiência e a cobertura dos testes.</p>
+  
+  <p>Durante minha passagem pela <a href="https://www.linkedin.com/in/qa-diego-souza" target="_blank">Samsung</a>, trabalhei como Especialista em QA, focando em testes de dispositivos móveis. Colaborei com equipes multidisciplinares para desenvolver e executar planos de teste que asseguraram a alta qualidade dos produtos lançados no mercado. Minha atuação foi crucial para a detecção precoce de bugs e problemas de desempenho, garantindo uma experiência de usuário superior.</p>
+  
+  <p>No <a href="https://www.linkedin.com/in/qa-diego-souza" target="_blank">Thales Group</a>, desempenhei o papel de Engenheiro de Qualidade de Software, onde participei de projetos de alta segurança e tecnologia avançada. Minha principal responsabilidade foi a validação de sistemas críticos, utilizando técnicas de teste automatizado e manual para assegurar a conformidade com os padrões de segurança e desempenho exigidos pela indústria.</p>
+  
+  <p>Na <a href="https://www.linkedin.com/in/qa-diego-souza" target="_blank">WEX</a>, atuei como Engenheiro de QA, focando em soluções de pagamento e tecnologia financeira. Desenvolvi e implementei estratégias de teste para garantir a robustez e a segurança das plataformas de pagamento. Minha contribuição foi essencial para a entrega de produtos confiáveis e seguros, atendendo às necessidades dos clientes e regulamentos do setor.</p>
+</div>
 
 ## Formação e Treinamentos
 
@@ -57,7 +65,6 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 
 **Backend Test**
 <div>
-  <p>JS: Working in progress 🏗️</p>
   <a href="Postman" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" target="_blank"></a>
   <a href="Insomnia" target="_blank"><img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" target="_blank"></a>
   <a href="RobotFramework" target="_blank"><img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" target="_blank"></a>
