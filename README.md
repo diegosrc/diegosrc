@@ -12,10 +12,12 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 ## Formação e Treinamentos
 - **Training Trip na Coreia do Sul [Fevereiro de 2020]** :Participação em um programa de treinamento intensivo focado em tecnologias emergentes e inovação.
 
+<!-- 
 ## Projetos
 - **Nome do Projeto 1**: Descrição breve do projeto.
 - **Nome do Projeto 2**: Descrição breve do projeto.
 - **Nome do Projeto 3**: Descrição breve do projeto.
+-->
 
 ## Habilidades
 
