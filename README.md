@@ -80,18 +80,29 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 </div>
 
 **Device Farm**
-- Browserstack
+<div>
+  <a href="Browserstack" target="_blank"><img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" target="_blank"></a>
+</div>
+
 
 **Cloud**
-- AWS
+<div>
+  <a href="AWS" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
+</div>
+
 
 **Virtualization**
-- Working in progress
+<div>
+  <p>Working in progress</p>
+</div>
+
 
 **Locator Strategies**
-- Xpath
-- CSS Selector
-- Id
+<div>
+  <a href="Xpath" target="_blank"><img src="https://img.shields.io/badge/Xpath-02569B?style=for-the-badge&logo=xpath&logoColor=white" target="_blank"></a>
+  <a href="CSS Selector" target="_blank"><img src="https://img.shields.io/badge/CSS_Selector-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+  <a href="Id" target="_blank"><img src="https://img.shields.io/badge/Id-4CAF50?style=for-the-badge&logo=id&logoColor=white" target="_blank"></a>
+</div>
 
 **IDEs**
 <div>
