@@ -43,11 +43,12 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - WEB: [Selenium Webdriver, Robot Framework]
 
 **OS**
+<!--
 - Windows
 - Linux: [Fedora, Ubuntu]
 - MacOS
 - Android
-
+-->
 <div>
   <a href="Windows" target="_blank"><img src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor" target="_blank"></a>
   <a href="Linux" target="_blank"><img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" target="_blank"></a>
