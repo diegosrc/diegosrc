@@ -10,7 +10,10 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - **WEX**
 
 ## Formação e Treinamentos
-- **Training Trip na Coreia do Sul [Fevereiro de 2020]** :Participação em um programa de treinamento intensivo focado em tecnologias emergentes e inovação.
+
+- **Engenheiro de Telecomunicações pelo INATEL**
+- **Training Trip na Coreia do Sul [Fevereiro de 2020]** :Participação em um programa de treinamento intensivo na Samsung Smart City focado em tecnologias emergentes e inovação.
+- **CTFL - Certified Tester Foundation Level**
 
 <!-- 
 ## Projetos
