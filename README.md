@@ -48,13 +48,6 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 </div>
 
 **Database**
-<!--
-- Oracle
-- MariaDB
-- MySQL
-- DBeaver
-- MySQL Workbench
--->
 <div>
   <a href="Oracle" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
   <a href="MySQL" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>  
@@ -80,12 +73,6 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 
 
 **OS**
-<!--
-- Windows
-- Linux: [Fedora, Ubuntu]
-- MacOS
-- Android
--->
 <div>
   <a href="Windows" target="_blank"><img src="https://icongr.am/devicon/windows8-original.svg?size=50&color=currentColor" target="_blank"></a>
   <a href="Linux" target="_blank"><img src="https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor" target="_blank"></a>
@@ -110,7 +97,6 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
   <p>Working in progress 🏗️</p>
 </div>
 
-
 **Locator Strategies**
 <div>
   <a href="Xpath" target="_blank"><img src="https://img.shields.io/badge/Xpath-02569B?style=for-the-badge&logo=xpath&logoColor=white" target="_blank"></a>
@@ -125,8 +111,6 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
   <a href="Microsoft Visual Studio" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" target="_blank"></a>
 </div>
 
-
-
 **CI/CD**
 <div>
   <a href="Gitlab" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
@@ -139,7 +123,6 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
   <a href="Jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" target="_blank"></a>
 </div>
 
-
 **Agile Methodologies**
 <div>
   <a href="Kanban" target="_blank"><img src="https://img.shields.io/badge/Kanban-007ACC?style=for-the-badge&logo=kanban&logoColor=white" target="_blank"></a>
@@ -147,22 +130,13 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
   <a href="Waterfall" target="_blank"><img src="https://img.shields.io/badge/Waterfall-FF6F00?style=for-the-badge&logo=waterfall&logoColor=white" target="_blank"></a>
 </div>
 
-**Vamos conversar sobre**
+**Vamos conversar sobre**:
 - Massa Fresca, Risoto, Carne e Cerveja 🍺🥣
 - Convergência Homen Máquina e a Singularidade 🤖
 - Cafés especiais ☕
 - Imagine Dragons, Artick Monkeys, Marshmello, etc 🎛️
 
 ## Contato
-<!-- 
--LinkedIn: www.linkedin.com/in/qa-diego-souza
-- Email: qa.diegosouza@gmail.com
-- Mobile: +55 (19) 971-454-773
-- <a href="https://wa.me/5519971454773?text=Olá%20Diego,%20encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20sua%20trajetória%20profissional"
-target="_blank">
-  <button>Whatsapp</button>
-</a>
--->
 
 <div> 
   <a href="https://wa.me/5519971454773?text=Olá%20Diego,%20encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20sua%20trajetória%20profissional" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -172,5 +146,7 @@ target="_blank">
   
 </div>
 ---
+
 Copilot foi um co-autor neste projeto e economizou-me algumas horas de trabalho!
+
 Sempre aberto a novas oportunidades e colaborações. Vamos conectar!
