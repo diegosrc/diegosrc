@@ -87,14 +87,23 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - Imagine Dragons, Artick Monkeys, Marshmello, etc
 
 ## Contato
-- LinkedIn: www.linkedin.com/in/qa-diego-souza
+<!-- 
+-LinkedIn: www.linkedin.com/in/qa-diego-souza
 - Email: qa.diegosouza@gmail.com
 - Mobile: +55 (19) 971-454-773
 - <a href="https://wa.me/5519971454773?text=Olá%20Diego,%20encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20sua%20trajetória%20profissional"
 target="_blank">
   <button>Whatsapp</button>
 </a>
+-->
 
+<div> 
+  <a href="https://wa.me/5519971454773?text=Olá%20Diego,%20encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20sua%20trajetória%20profissional" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:qa.diegosouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/qa-diego-souza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 ---
 
 Sempre aberto a novas oportunidades e colaborações. Vamos conectar!
