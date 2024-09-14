@@ -1,20 +1,15 @@
 # Diego Souza
-<!--
-<div>
-  <a href="Windows" target="_blank"><img src="" target="_blank"></a>
-  <a href="Linux" target="_blank"><img src="" target="_blank"></a>
-  <a href="MacOS" target="_blank"><img src="" target="_blank"></a>
-  <a href="Android" target="_blank"><img src="" target="_blank"></a> 
-</div>
--->
+
 ## Sobre Mim
-Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Framework, RabbitMQ e MySQL. Apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados. 
+Sou um profissional com mais de 5 anos de experiência em qualidade de software, apaixonado por tecnologia e entusiasta de IA. Desde jovem, adoro resolver problemas desafiadores e sou fã de livros de desenvolvimento pessoal e jogos de consoles antigos. Essa paixão se reflete na minha vida profissional como promotor da qualidade de software.
+
+No meu trabalho, foco em entregar soluções eficientes e de alta qualidade, sempre priorizando a experiência do usuário. Tenho uma mentalidade proativa e busco constantemente ideias inovadoras, mesmo diante das limitações corporativas.
+
+Uma das minhas principais forças é a capacidade de unir habilidades de equipes diversificadas, promovendo colaboração e melhores resultados. Estou sempre disposto a apoiar meus colegas e aproveitar suas habilidades.
+
+Se você procura um jogador de equipe dedicado a criar soluções excepcionais, estou pronto para contribuir com minhas habilidades e expertise. 
 
 ## Experiência Profissional
-- **Motorola**
-- **Samsung**
-- **Thales Group**
-- **WEX**
 
 <div>
   <h3>Motorola Mobility (a Lenovo Company)</h3>
@@ -86,13 +81,6 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - **Engenheiro de Telecomunicações pelo INATEL [2º Semestre de 2018]**
 - **Training Trip na Coreia do Sul [Fevereiro de 2020]** :Participação em um programa de treinamento intensivo na Samsung Smart City focado em tecnologias emergentes e inovação.
 - **CTFL - Certified Tester Foundation Level**
-
-<!-- 
-## Projetos
-- **Nome do Projeto 1**: Descrição breve do projeto.
-- **Nome do Projeto 2**: Descrição breve do projeto.
-- **Nome do Projeto 3**: Descrição breve do projeto.
--->
 
 ## Habilidades
 
