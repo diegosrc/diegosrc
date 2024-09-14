@@ -22,7 +22,7 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 
 ## Formação e Treinamentos
 
-- **Engenheiro de Telecomunicações pelo INATEL**
+- **Engenheiro de Telecomunicações pelo INATEL [2º Semestre de 2018]**
 - **Training Trip na Coreia do Sul [Fevereiro de 2020]** :Participação em um programa de treinamento intensivo na Samsung Smart City focado em tecnologias emergentes e inovação.
 - **CTFL - Certified Tester Foundation Level**
 
@@ -34,6 +34,11 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 -->
 
 ## Habilidades
+
+**IA**
+<div>
+  <a href="Copilot" target="_blank"><img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
 
 **Code**
 <div>
@@ -167,5 +172,5 @@ target="_blank">
   
 </div>
 ---
-
+Copilot foi um co-autor neste projeto e economizou-me algumas horas de trabalho!
 Sempre aberto a novas oportunidades e colaborações. Vamos conectar!
