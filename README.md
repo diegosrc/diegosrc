@@ -1,8 +1,8 @@
 # Diego Souza
 
 <div>
-    <a href="README_EN"><button class="button eng">ENG</button></a>
-    <a href="README_PT"><button class="button">PT</button></a>    
+    <a href="README_EN.md"><button class="button eng">ENG</button></a>
+    <a href="README_PT.md"><button class="button">PT</button></a>    
 </div>
 
 ## Sobre Mim
