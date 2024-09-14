@@ -37,12 +37,9 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 
 **Code**
 <div>
-  <a href="Python" target="_blank"><img src="https://icongr.am/devicon/python-original.svg?size=100&color=currentColor
-  
-  " target="_blank"></a>
+  <a href="Python" target="_blank"><img src="https://icongr.am/devicon/python-original.svg?size=100&color=currentColor" target="_blank"></a>
   <a href="Javascript" target="_blank"><img src="https://icongr.am/devicon/javascript-original.svg?size=100&color=currentColor" target="_blank"></a>
   <a href="HTML5" target="_blank"><img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=100&color=currentColor" target="_blank"></a>
-  <a href="Prompt" target="_blank"><img src="" target="_blank"></a>
 </div>
 
 **Database**
