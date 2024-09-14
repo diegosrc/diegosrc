@@ -10,7 +10,7 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - **WEX**
 
 ## Formação e Treinamentos
-- **Training Trip na Coreia do Sul**: Participação em um programa de treinamento intensivo focado em tecnologias emergentes e inovação.
+- **Training Trip na Coreia do Sul [Fevereiro de 2020]**: Participação em um programa de treinamento intensivo focado em tecnologias emergentes e inovação.
 
 ## Projetos
 - **Nome do Projeto 1**: Descrição breve do projeto.
