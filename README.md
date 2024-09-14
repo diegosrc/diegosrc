@@ -94,10 +94,6 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - Id
 
 **IDEs**
-- IntelliJ
-- VSCode
-- Microsoft Visual Studio
-
 <div>
   <a href="IntelliJ" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" target="_blank"></a>
   <a href="VSCode" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" target="_blank"></a>
@@ -107,17 +103,24 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 
 
 **CI/CD**
-- Gitlab
+<div>
+  <a href="Gitlab" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+</div>
 
 **Managment Tools**
-- Trello
-- Azure Devops (AZDO)
-- Jira
+<div>
+  <a href="Trello" target="_blank"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
+  <a href="Azure Devops" target="_blank"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" target="_blank"></a>
+  <a href="Jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" target="_blank"></a>
+</div>
+
 
 **Agile Methodologies**
-- Kanban
-- Scrum
-- Waterfall
+<div>
+  <a href="Kanban" target="_blank"><img src="https://img.shields.io/badge/Kanban-007ACC?style=for-the-badge&logo=kanban&logoColor=white" target="_blank"></a>
+  <a href="Scrum" target="_blank"><img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" target="_blank"></a>
+  <a href="Waterfall" target="_blank"><img src="https://img.shields.io/badge/Waterfall-FF6F00?style=for-the-badge&logo=waterfall&logoColor=white" target="_blank"></a>
+</div>
 
 **Vamos conversar sobre**
 - Massa Fresca, Risoto, Carne e Cerveja 🍺🥣
