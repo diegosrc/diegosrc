@@ -98,6 +98,13 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - VSCode
 - Microsoft Visual Studio
 
+<div>
+  <a href="IntelliJ" target="_blank"><img src="https://icongr.am/devicon/intellij-original.svg?size=50&color=currentColor" target="_blank"></a>
+  <a href="VSCode" target="_blank"><img src="https://icongr.am/devicon/vscode-original.svg?size=50&color=currentColor" target="_blank"></a>
+  <a href="Microsoft Visual Studio" target="_blank"><img src="https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=currentColor" target="_blank"></a>
+</div>
+
+
 **CI/CD**
 - Gitlab
 
