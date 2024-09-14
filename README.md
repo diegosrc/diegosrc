@@ -47,11 +47,11 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - MySQL Workbench
 -->
 <div>
-  <a href="Oracle" target="_blank"><img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" target="_blank"></a>
   <a href="MariaDB" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" target="_blank"></a>
+  <a href="Oracle" target="_blank"><img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" target="_blank"></a>
   <a href="MySQL" target="_blank"><img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" target="_blank"></a>
-  <a href="DBeaver" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" target="_blank"></a>
   <a href="MySQLWorkbech" target="_blank"><img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" target="_blank"></a>
+  <a href="DBeaver" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" target="_blank"></a>
 </div>
 
 **Backend Test**
