@@ -1,7 +1,9 @@
 # Diego Souza
 
-!PT
-!ENG
+<div>
+    <a href="README_EN"><button class="button eng">ENG</button></a>
+    <a href="README_PT"><button class="button">PT</button></a>    
+</div>
 
 ## Sobre Mim
 Sou um profissional com mais de 5 anos de experiência em qualidade de software, apaixonado por tecnologia e entusiasta de IA. Desde jovem, adoro resolver problemas desafiadores e sou fã de livros de desenvolvimento pessoal e jogos de consoles antigos. Essa paixão se reflete na minha vida profissional como promotor da qualidade de software.
