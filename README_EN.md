@@ -3,8 +3,6 @@
 <div>
     <p>Para falantes de Portugês</p>
     <a href="README_PT.md"><button class="button">PT</button></a>
-    <p></p>
-    <a href="README_EN.md"><button class="button eng">ENG</button></a>
 </div>
 
 ## Sobre Mim

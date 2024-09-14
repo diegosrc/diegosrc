@@ -2,9 +2,7 @@
 
 <div>
     <p> For English Speakers </p>
-    <a href="README_EN.md"><button class="button eng">ENG</button></a>
-    <p></p>
-    <a href="README_PT.md"><button class="button">PT</button></a>    
+    <a href="README_EN.md"><button class="button eng">ENG</button></a>   
 </div>
 
 ## Sobre Mim
