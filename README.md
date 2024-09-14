@@ -62,12 +62,23 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
   </ul>
 </div>
   
-<p>Quality Assurance Specialist IIQuality Assurance Specialist II
-WEX · Tempo integralWEX · Tempo integral
-set de 2023 - jun de 2024 · 10 mesesDe set de 2023 até jun de 2024 · 10 meses
-Portland, Maine, United States · RemotaPortland, Maine, United States · Remota
-Principais atividades: Análise, modelagem, implementação e execução de testes manuais e automáticos; Executar testes em diversos ambientes e homologação; Apoiar a equipe de desenvolvimento abordando e esclarecendo bugs reportados; Documentar e relatar defeitos e não conformidades do produto; Escrever documentação do processo de qualidade de software; Preparar o ambiente, massa de dados e pré-requisitos necessários para a execução dos casos de teste; Redação de relatórios e apresentações; Conhecimento em AZDO; Automação de testes com Robot Framework.Principais atividades: Análise, modelagem, implementação e execução de testes manuais e automáticos; Executar testes em diversos ambientes e homologação; Apoiar a equipe de desenvolvimento abordando e esclarecendo bugs reportados; Documentar e relatar defeitos e não conformidades do produto; Escrever documentação do processo de qualidade de software; Preparar o ambiente, massa de dados e pré-requisitos necessários para a execução dos casos de teste; Redação de relatórios e apresentações; Conhecimento em AZDO; Automação de testes com Robot Framework.
-Competências: SQL · Python (Programming Language) · Robot Framework</p>
+<div>
+  <h3>WEX</h3>
+  <h4>Quality Assurance Specialist II</h4>
+  <p>Portland, Maine, United States · Remota</p>
+  <p>set de 2023 - jun de 2024 · 10 meses</p>
+  <ul>
+    <li>Análise, modelagem, implementação e execução de testes manuais e automáticos.</li>
+    <li>Executar testes em diversos ambientes e homologação.</li>
+    <li>Apoiar a equipe de desenvolvimento abordando e esclarecendo bugs reportados.</li>
+    <li>Documentar e relatar defeitos e não conformidades do produto.</li>
+    <li>Escrever documentação do processo de qualidade de software.</li>
+    <li>Preparar o ambiente, massa de dados e pré-requisitos necessários para a execução dos casos de teste.</li>
+    <li>Redação de relatórios e apresentações.</li>
+    <li>Conhecimento em AZDO.</li>
+    <li>Automação de testes com Robot Framework.</li>
+    <li>Competências: SQL, Python (Programming Language), Robot Framework.</li>
+  </ul>
 </div>
 
 ## Formação e Treinamentos
