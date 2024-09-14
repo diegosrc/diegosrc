@@ -29,18 +29,13 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - DBeaver
 - MySQL Workbench
 
-**Vamos conversar sobre**
-- Massa Fresca, Risoto, Carne e Cerveja
-- Convergência Homen Máquina e a Singularidade
-- Cafés especiais
-
-**FrontEnd Test**
-- WEB:[Selenium Webdriver, Robot Framework]
-
 **Backend Test**
 - JS: Working in progress
 - API: [Postman, Insomnia, RobotFramwork]
 - Performance: [K6, Jmeter]
+
+**FrontEnd Test**
+- WEB:[Selenium Webdriver, Robot Framework]
 
 **OS**
 - Windows
@@ -80,12 +75,14 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 - Scrum
 - Waterfall
 
-## Interesses Pessoais
-- **Culinária**: Adoro cozinhar e experimentar novas receitas.
-- **Música**: Fã de Imagine Dragons e Arctic Monkeys.
+**Vamos conversar sobre**
+- Massa Fresca, Risoto, Carne e Cerveja
+- Convergência Homen Máquina e a Singularidade
+- Cafés especiais
+- Imagine Dragons, Artick Monkeys, Marshmello, etc
 
 ## Contato
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/qa-diego-souza
 - Email: qa.diegosouza@gmail.com
 - Whatsapp: +55 (19) 971-454-773
 
