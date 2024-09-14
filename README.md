@@ -58,12 +58,21 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 </div>
 
 **Backend Test**
-- JS: [Working in progress] 🏗️
-- API: [Postman, Insomnia, RobotFramwork]
-- Performance: [K6, Jmeter]
+<div>
+  <p>JS: Working in progress 🏗️</p>
+  <a href="Postman" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" target="_blank"></a>
+  <a href="Insomnia" target="_blank"><img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" target="_blank"></a>
+  <a href="RobotFramework" target="_blank"><img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" target="_blank"></a>
+  <a href="K6" target="_blank"><img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" target="_blank"></a>
+  <a href="Jmeter" target="_blank"><img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" target="_blank"></a>
+</div>
 
 **FrontEnd Test**
-- WEB: [Selenium Webdriver, Robot Framework]
+<div>
+  <a href="Selenium Webdriver" target="_blank"><img src="https://img.shields.io/badge/Selenium_Webdriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" target="_blank"></a>
+  <a href="Robot Framework" target="_blank"><img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" target="_blank"></a>
+</div>
+
 
 **OS**
 <!--
@@ -93,7 +102,7 @@ Desenvolvedor de software com vasta experiência em Python, Selenium, Robot Fram
 
 **Virtualization**
 <div>
-  <p>Working in progress</p>
+  <p>Working in progress 🏗️</p>
 </div>
 
 
