@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: space-around; /* Alinha os itens com espaço ao redor */
+    align-items: center; /* Centraliza os itens verticalmente */
+    gap: 10px; /* Espaçamento entre os itens */
+  }
+  
+  .container a img {
+    width: 50px; /* Ajuste o tamanho das imagens conforme necessário */
+    height: auto;
+  }
+  
