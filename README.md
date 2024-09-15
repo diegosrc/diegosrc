@@ -1,10 +1,10 @@
-## Diego Souza
-
 <div>
   <a href="README_EN.md" target="_blank"> For English readers </a>
   <p></p>
   <a href="README_PT.md" target="_blank"> Para leitores de Português</a>
 </div>
+
+## Diego Souza
 
 ## Sobre Mim
 Sou um profissional com mais de 5 anos de experiência em qualidade de software, apaixonado por tecnologia e entusiasta de IA. Desde jovem, adoro resolver problemas desafiadores e sou fã de livros de desenvolvimento pessoal e jogos de consoles antigos. Essa paixão se reflete na minha vida profissional como promotor da qualidade de software.
@@ -205,5 +205,6 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
 
 Copilot foi um co-autor neste projeto e economizou-me algumas horas de trabalho!
 
-Sempre aberto a novas oportunidades e colaborações. Vamos conectar!#   P o r t f o l i o _ Q A _ D i e g o _ S o u z a  
+Sempre aberto a novas oportunidades e colaborações. Vamos conectar!#   P o r t f o l i o _ Q A _ D i e g o _ S o u z a 
+ 
  
