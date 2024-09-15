@@ -1,4 +1,4 @@
-**Diego Souza**
+## Diego Souza
 
 <div>  
   <a href="README_PT.md" target="_blank"> Para leitores de Português</a>
@@ -13,7 +13,7 @@ No meu trabalho, foco em entregar soluções eficientes e de alta qualidade, sem
 
 Uma das minhas principais forças é a capacidade de unir habilidades de equipes diversificadas, promovendo colaboração e melhores resultados. Estou sempre disposto a apoiar meus colegas e aproveitar suas habilidades.
 
-Se você procura um jogador de equipe dedicado a criar soluções excepcionais, estou pronto para contribuir com minhas habilidades e expertise. 
+Se você procura um player na equipe dedicado a criar soluções excepcionais, estou pronto para contribuir com minhas habilidades e expertise. 
 
 ## Experiência Profissional
 
