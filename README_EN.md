@@ -3,6 +3,7 @@
 <div>  
   <a href="README_PT.md" target="_blank"> Para leitores de Português</a>
   <p></p>
+  <a href="README.md" target="_blank"> Home</a>
 </div>
 
 ## Sobre Mim
