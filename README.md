@@ -1,3 +1,5 @@
+**Diego Souza**
+
 <div>
   <a href="README_EN.md" target="_blank"> For English readers </a>
   <p></p>
