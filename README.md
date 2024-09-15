@@ -205,6 +205,14 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
 
 Copilot foi um co-autor neste projeto e economizou-me algumas horas de trabalho!
 
-Sempre aberto a novas oportunidades e colaborações. Vamos conectar!#   P o r t f o l i o _ Q A _ D i e g o _ S o u z a  
- #   P o r t f o l i o _ Q A _ D i e g o _ S o u z a  
+<<<<<<< HEAD
+Sempre aberto a novas oportunidades e colaborações. Vamos conectar!#   P o r t f o l i o _ Q A _ D i e g o _ S o u z a 
  
+ #   P o r t f o l i o _ Q A _ D i e g o _ S o u z a 
+ 
+ 
+=======
+Sempre aberto a novas oportunidades e colaborações. Vamos conectar!#   P o r t f o l i o _ Q A _ D i e g o _ S o u z a 
+ 
+ 
+>>>>>>> 1d33afa376fdcaf6be9abe50c973ea4f9da13580
