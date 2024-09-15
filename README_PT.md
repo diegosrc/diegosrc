@@ -18,33 +18,24 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
 ## Experiência Profissional
 
 <div>
-  <h3>Motorola Mobility (a Lenovo Company)</h3>
-  <h4>Estagiário de Engenharia de Testes</h4>
-  <p>Campinas e Região, Brasil</p>
-  <p>jan de 2017 - dez de 2017</p>
+  <h3>WEX</h3>
+  <h4>Quality Assurance Specialist II</h4>
+  <p>Portland, Maine, United States · Remota</p>
+  <p>set de 2023 - jun de 2024 · 10 meses</p>
   <ul>
-    <li>Auxiliei na análise de projetos e na geração de gráficos e relatórios.</li>
-    <li>Acompanhei a análise de custos de produtos sob supervisão.</li>
-    <li>Analisei a capacidade dos equipamentos de teste e propus melhorias.</li>
-    <li>Contribuí na implementação e melhoria de projetos de hardware e software.</li>
-    <li>Auxiliei na codificação, teste e correção de programas de testes.</li>
-    <li>Analisei dados de qualidade e produtividade das estações de teste, propondo melhorias.</li>
-    <li>Controlei o inventário de equipamentos de teste, expansão e substituição.</li>
-    <li>Utilizei ferramentas matemáticas como First Time Yield (FTY), CP, CPK, No Trouble Found (NTF) e Pareto.</li>
-    <li>Participei da execução do FMEA (Failure Modes and Effects Analysis) e do PFMEA (Process Failure Modes and Effects Analysis).</li>
+    <li>Análise, modelagem, implementação e execução de testes manuais e automáticos.</li>
+    <li>Executar testes em diversos ambientes e homologação.</li>
+    <li>Apoiar a equipe de desenvolvimento abordando e esclarecendo bugs reportados.</li>
+    <li>Documentar e relatar defeitos e não conformidades do produto.</li>
+    <li>Escrever documentação do processo de qualidade de software.</li>
+    <li>Preparar o ambiente, massa de dados e pré-requisitos necessários para a execução dos casos de teste.</li>
+    <li>Redação de relatórios e apresentações.</li>
+    <li>Conhecimento em AZDO.</li>
+    <li>Automação de testes com Robot Framework.</li>
+    <li>Competências: SQL, Python (Programming Language), Robot Framework.</li>
   </ul>
 </div>
-<div>
-  <h3>Samsung Brasil</h3>
-  <h4>Engenheiro de Testes Júnior</h4>
-  <p>Campinas e Região, Brasil</p>
-  <p>jun de 2019 - out de 2021 · 2 anos 5 meses</p>
-  <ul>
-    <li>Criação de casos de testes manuais e automáticos para o assistente inteligente Bixby.</li>
-    <li>Acompanhar e reportar bugs, garantindo a qualidade e a confiabilidade do produto - Q&A.</li>
-    <li>Performar testes e bug review.</li>
-  </ul>
-</div>
+
 <div>
   <h3>CESAR</h3>
   <h4>Engenheiro de Testes Júnior</h4>
@@ -62,23 +53,34 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
     <li>Automação de testes com Cypress ou Selenium e correlatos.</li>
   </ul>
 </div>
-  
+
 <div>
-  <h3>WEX</h3>
-  <h4>Quality Assurance Specialist II</h4>
-  <p>Portland, Maine, United States · Remota</p>
-  <p>set de 2023 - jun de 2024 · 10 meses</p>
+  <h3>Samsung Brasil</h3>
+  <h4>Engenheiro de Testes Júnior</h4>
+  <p>Campinas e Região, Brasil</p>
+  <p>jun de 2019 - out de 2021 · 2 anos 5 meses</p>
   <ul>
-    <li>Análise, modelagem, implementação e execução de testes manuais e automáticos.</li>
-    <li>Executar testes em diversos ambientes e homologação.</li>
-    <li>Apoiar a equipe de desenvolvimento abordando e esclarecendo bugs reportados.</li>
-    <li>Documentar e relatar defeitos e não conformidades do produto.</li>
-    <li>Escrever documentação do processo de qualidade de software.</li>
-    <li>Preparar o ambiente, massa de dados e pré-requisitos necessários para a execução dos casos de teste.</li>
-    <li>Redação de relatórios e apresentações.</li>
-    <li>Conhecimento em AZDO.</li>
-    <li>Automação de testes com Robot Framework.</li>
-    <li>Competências: SQL, Python (Programming Language), Robot Framework.</li>
+    <li>Criação de casos de testes manuais e automáticos para o assistente inteligente Bixby.</li>
+    <li>Acompanhar e reportar bugs, garantindo a qualidade e a confiabilidade do produto - Q&A.</li>
+    <li>Performar testes e bug review.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Motorola Mobility (a Lenovo Company)</h3>
+  <h4>Estagiário de Engenharia de Testes</h4>
+  <p>Campinas e Região, Brasil</p>
+  <p>jan de 2017 - dez de 2017</p>
+  <ul>
+    <li>Auxiliei na análise de projetos e na geração de gráficos e relatórios.</li>
+    <li>Acompanhei a análise de custos de produtos sob supervisão.</li>
+    <li>Analisei a capacidade dos equipamentos de teste e propus melhorias.</li>
+    <li>Contribuí na implementação e melhoria de projetos de hardware e software.</li>
+    <li>Auxiliei na codificação, teste e correção de programas de testes.</li>
+    <li>Analisei dados de qualidade e produtividade das estações de teste, propondo melhorias.</li>
+    <li>Controlei o inventário de equipamentos de teste, expansão e substituição.</li>
+    <li>Utilizei ferramentas matemáticas como First Time Yield (FTY), CP, CPK, No Trouble Found (NTF) e Pareto.</li>
+    <li>Participei da execução do FMEA (Failure Modes and Effects Analysis) e do PFMEA (Process Failure Modes and Effects Analysis).</li>
   </ul>
 </div>
 

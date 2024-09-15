@@ -6,91 +6,93 @@
   <a href="README.md" target="_blank"> Home</a>
 </div>
 
-## Sobre Mim
-Sou um profissional com mais de 5 anos de experiência em qualidade de software, apaixonado por tecnologia e entusiasta de IA. Desde jovem, adoro resolver problemas desafiadores e sou fã de livros de desenvolvimento pessoal e jogos de consoles antigos. Essa paixão se reflete na minha vida profissional como promotor da qualidade de software.
+## About me
+I am a professional with over 5 years of experience in software quality, passionate about technology and an AI enthusiast. Since a young age, I have enjoyed solving challenging problems and am a fan of personal development books and classic console games. This passion is reflected in my professional life as a promoter of software quality.
 
-No meu trabalho, foco em entregar soluções eficientes e de alta qualidade, sempre priorizando a experiência do usuário. Tenho uma mentalidade proativa e busco constantemente ideias inovadoras, mesmo diante das limitações corporativas.
+In my work, I focus on delivering efficient and high-quality solutions, always prioritizing user experience. I have a proactive mindset and constantly seek innovative ideas, even when facing corporate constraints.
 
-Uma das minhas principais forças é a capacidade de unir habilidades de equipes diversificadas, promovendo colaboração e melhores resultados. Estou sempre disposto a apoiar meus colegas e aproveitar suas habilidades.
+One of my main strengths is the ability to unite skills from diverse teams, promoting collaboration and achieving better results. I am always willing to support my colleagues and leverage their abilities.
 
-Se você procura um player na equipe dedicado a criar soluções excepcionais, estou pronto para contribuir com minhas habilidades e expertise. 
+If you are looking for a dedicated team player to create exceptional solutions, I am ready to contribute with my skills and expertise. 
 
-## Experiência Profissional
+## Professional Background
 
-<div>
-  <h3>Motorola Mobility (a Lenovo Company)</h3>
-  <h4>Estagiário de Engenharia de Testes</h4>
-  <p>Campinas e Região, Brasil</p>
-  <p>jan de 2017 - dez de 2017</p>
-  <ul>
-    <li>Auxiliei na análise de projetos e na geração de gráficos e relatórios.</li>
-    <li>Acompanhei a análise de custos de produtos sob supervisão.</li>
-    <li>Analisei a capacidade dos equipamentos de teste e propus melhorias.</li>
-    <li>Contribuí na implementação e melhoria de projetos de hardware e software.</li>
-    <li>Auxiliei na codificação, teste e correção de programas de testes.</li>
-    <li>Analisei dados de qualidade e produtividade das estações de teste, propondo melhorias.</li>
-    <li>Controlei o inventário de equipamentos de teste, expansão e substituição.</li>
-    <li>Utilizei ferramentas matemáticas como First Time Yield (FTY), CP, CPK, No Trouble Found (NTF) e Pareto.</li>
-    <li>Participei da execução do FMEA (Failure Modes and Effects Analysis) e do PFMEA (Process Failure Modes and Effects Analysis).</li>
-  </ul>
-</div>
-<div>
-  <h3>Samsung Brasil</h3>
-  <h4>Engenheiro de Testes Júnior</h4>
-  <p>Campinas e Região, Brasil</p>
-  <p>jun de 2019 - out de 2021 · 2 anos 5 meses</p>
-  <ul>
-    <li>Criação de casos de testes manuais e automáticos para o assistente inteligente Bixby.</li>
-    <li>Acompanhar e reportar bugs, garantindo a qualidade e a confiabilidade do produto - Q&A.</li>
-    <li>Performar testes e bug review.</li>
-  </ul>
-</div>
-<div>
-  <h3>CESAR</h3>
-  <h4>Engenheiro de Testes Júnior</h4>
-  <p>Recife, Pernambuco, Brasil</p>
-  <p>out de 2021 - jun de 2023 · 1 ano 9 meses</p>
-  <ul>
-    <li>Análise, modelagem, implementação e execução de testes manuais e automáticos.</li>
-    <li>Execução de testes em ambientes diversos e de homologação.</li>
-    <li>Suporte ao time de desenvolvimento no esclarecimento de bugs reportados.</li>
-    <li>Documentar e reportar defeitos e não conformidades do produto.</li>
-    <li>Redigir documentação de testes e processos de qualidade de software.</li>
-    <li>Preparar o ambiente, massa de dados e pré-requisitos necessários para a execução dos casos de testes.</li>
-    <li>Redação de relatórios e apresentações.</li>
-    <li>Conhecimentos em DBeaver, GIT, JIRA, BDD e correlatos.</li>
-    <li>Automação de testes com Cypress ou Selenium e correlatos.</li>
-  </ul>
-</div>
-  
 <div>
   <h3>WEX</h3>
   <h4>Quality Assurance Specialist II</h4>
-  <p>Portland, Maine, United States · Remota</p>
-  <p>set de 2023 - jun de 2024 · 10 meses</p>
+  <p>Portland, Maine, United States · Remote</p>
+  <p>Sep 2023 - Jun 2024 · 10 months</p>
   <ul>
-    <li>Análise, modelagem, implementação e execução de testes manuais e automáticos.</li>
-    <li>Executar testes em diversos ambientes e homologação.</li>
-    <li>Apoiar a equipe de desenvolvimento abordando e esclarecendo bugs reportados.</li>
-    <li>Documentar e relatar defeitos e não conformidades do produto.</li>
-    <li>Escrever documentação do processo de qualidade de software.</li>
-    <li>Preparar o ambiente, massa de dados e pré-requisitos necessários para a execução dos casos de teste.</li>
-    <li>Redação de relatórios e apresentações.</li>
-    <li>Conhecimento em AZDO.</li>
-    <li>Automação de testes com Robot Framework.</li>
-    <li>Competências: SQL, Python (Programming Language), Robot Framework.</li>
+    <li>Analysis, modeling, implementation, and execution of manual and automated tests.</li>
+    <li>Executing tests in various environments and for homologation.</li>
+    <li>Supporting the development team by addressing and clarifying reported bugs.</li>
+    <li>Documenting and reporting defects and product non-conformities.</li>
+    <li>Writing software quality process documentation.</li>
+    <li>Preparing the environment, data sets, and prerequisites needed for test execution.</li>
+    <li>Drafting reports and presentations.</li>
+    <li>Knowledge in AZDO.</li>
+    <li>Test automation with Robot Framework.</li>
+    <li>Skills: SQL, Python (Programming Language), Robot Framework.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>CESAR</h3>
+  <h4>Junior Test Engineer</h4>
+  <p>Recife, Pernambuco, Brazil</p>
+  <p>Oct 2021 - Jun 2023 · 1 year 9 months</p>
+  <ul>
+    <li>Analysis, modeling, implementation, and execution of manual and automated tests.</li>
+    <li>Executing tests in various environments and for homologation.</li>
+    <li>Supporting the development team by clarifying reported bugs.</li>
+    <li>Documenting and reporting defects and product non-conformities.</li>
+    <li>Writing test documentation and software quality processes.</li>
+    <li>Preparing the environment, data sets, and prerequisites needed for test execution.</li>
+    <li>Drafting reports and presentations.</li>
+    <li>Knowledge in DBeaver, GIT, JIRA, BDD, and related tools.</li>
+    <li>Test automation with Cypress or Selenium and related tools.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Samsung Brazil</h3>
+  <h4>Junior Test Engineer</h4>
+  <p>Campinas Region, Brazil</p>
+  <p>Jun 2019 - Oct 2021 · 2 years 5 months</p>
+  <ul>
+    <li>Creating manual and automated test cases for the Bixby intelligent assistant.</li>
+    <li>Tracking and reporting bugs, ensuring product quality and reliability - Q&A.</li>
+    <li>Performing tests and bug reviews.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Motorola Mobility (a Lenovo Company)</h3>
+  <h4>Test Engineering Intern</h4>
+  <p>Campinas Region, Brazil</p>
+  <p>Jan 2017 - Dec 2017</p>
+  <ul>
+    <li>Assisted in project analysis and generating graphs and reports.</li>
+    <li>Monitored product cost analysis under supervision.</li>
+    <li>Analyzed the capacity of test equipment and proposed improvements.</li>
+    <li>Contributed to the implementation and enhancement of hardware and software projects.</li>
+    <li>Assisted in coding, testing, and debugging test programs.</li>
+    <li>Analyzed quality and productivity data from test stations, proposing improvements.</li>
+    <li>Controlled inventory of test equipment, expansion, and replacement.</li>
+    <li>Utilized mathematical tools such as First Time Yield (FTY), CP, CPK, No Trouble Found (NTF), and Pareto.</li>
+    <li>Participated in FMEA (Failure Modes and Effects Analysis) and PFMEA (Process Failure Modes and Effects Analysis).</li>
   </ul>
 </div>
 
 ## Formação e Treinamentos
 
-- **Engenheiro de Telecomunicações pelo INATEL [2º Semestre de 2018]**
-- **Training Trip na Coreia do Sul [Fevereiro de 2020]** :Participação em um programa de treinamento intensivo na Samsung Smart City focado em tecnologias emergentes e inovação.
+- **Bachelors Degree in Telecomunication Enginnering by INATEL [2018]**
+- **Training Trip in South Korea [FEB 2020]**: Participation in an intensive training program at Samsung Smart City focused on emerging technologies and innovation
 - **CTFL - Certified Tester Foundation Level**
 
-## Habilidades
+## Skills
 
-**IA**
+**AI**
 <div>
   <a href="Copilot" target="_blank"><img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
@@ -184,13 +186,13 @@ Se você procura um player na equipe dedicado a criar soluções excepcionais, e
   <a href="Waterfall" target="_blank"><img src="https://img.shields.io/badge/Waterfall-FF6F00?style=for-the-badge&logo=waterfall&logoColor=white" target="_blank"></a>
 </div>
 
-**Vamos conversar sobre**:
-- Massa Fresca, Risoto, Carne e Cerveja 🍺🥣
-- Convergência Homen Máquina e a Singularidade 🤖
-- Cafés especiais ☕
-- Imagine Dragons, Artick Monkeys, Marshmello, etc 🎛️
+**Ask me about**:
+- Fresh Pasta, Risotto, Barbecue, and Beer 🍺🥣
+- Human-Machine Convergence and the Singularity 🤖
+- Specialty Coffees ☕
+- Imagine Dragons, Arctic Monkeys, Marshmello, etc. 🎛️
 
-## Contato
+## Contact
 
 <div> 
   <a href="https://wa.me/5519971454773?text=Olá%20Diego,%20encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20sua%20trajetória%20profissional" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -201,6 +203,6 @@ Se você procura um player na equipe dedicado a criar soluções excepcionais, e
 </div>
 ---
 
-Copilot foi um co-autor neste projeto e economizou-me algumas horas de trabalho!
+Copilot was a co-author on this project and saved me a few hours of work!
 
-Sempre aberto a novas oportunidades e colaborações. Vamos conectar!
+Always open to new opportunities and collaborations. Let’s connect!"
