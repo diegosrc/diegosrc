@@ -84,7 +84,7 @@ If you are looking for a dedicated team player to create exceptional solutions, 
   </ul>
 </div>
 
-## Formação e Treinamentos
+## Degree and Certification
 
 - **Bachelors Degree in Telecomunication Enginnering by INATEL [2018]**
 - **Training Trip in South Korea [FEB 2020]**: Participation in an intensive training program at Samsung Smart City focused on emerging technologies and innovation
