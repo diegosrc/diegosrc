@@ -90,3 +90,8 @@ If you are looking for a dedicated team player to create exceptional solutions, 
   </ul>
 </div>
 
+**Ask me about**:
+- Fresh Pasta, Risotto, Barbecue, and Beer 🍺🥣
+- Human-Machine Convergence and the Singularity 🤖
+- Specialty Coffees ☕
+- Imagine Dragons, Arctic Monkeys, Marshmello, etc. 🎛️

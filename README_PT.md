@@ -89,3 +89,9 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
     <li>Participei da execução do FMEA (Failure Modes and Effects Analysis) e do PFMEA (Process Failure Modes and Effects Analysis).</li>
   </ul>
 </div>
+
+**Vamos conversar sobre**:
+- Massa Fresca, Risoto, Carne e Cerveja 🍺🥣
+- Convergência Homen Máquina e a Singularidade 🤖
+- Cafés especiais ☕
+- Imagine Dragons, Artick Monkeys, Marshmello, etc 🎛️
