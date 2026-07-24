@@ -1,49 +1,11 @@
-<style>
-  body { font-family: system-ui, -apple-system, sans-serif; }
-  .lang-selector {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    margin: 20px 0;
-  }
-  .lang-btn {
-    padding: 10px 20px;
-    border: 2px solid #30363d;
-    background: #161b22;
-    color: #c9d1d9;
-    cursor: pointer;
-    border-radius: 6px;
-    font-weight: bold;
-    font-size: 14px;
-    transition: all 0.3s;
-  }
-  .lang-btn.active {
-    border-color: #79C83D;
-    background: #79C83D;
-    color: #000;
-  }
-  .lang-btn:hover {
-    border-color: #79C83D;
-  }
-  .content-section {
-    display: none;
-  }
-  .content-section.active {
-    display: block;
-  }
-</style>
-
 <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiegosrc&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile%20visits&edge_flat=false" alt="Profile visits">
 </div>
 
-<div class="lang-selector">
-  <button class="lang-btn active" onclick="showLanguage('pt')">🇧🇷 Português</button>
-  <button class="lang-btn" onclick="showLanguage('en')">🇺🇸 English</button>
-</div>
+---
 
-<!-- PORTUGUESE VERSION -->
-<div id="pt" class="content-section active">
+<details open>
+<summary><strong>🇧🇷 Português</strong></summary>
 
 ## Diego Souza
 
@@ -67,8 +29,6 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
 Portland, Maine, United States · Remota  
 set de 2023 - jun de 2024 · 10 meses
 - Análise, modelagem, implementação e execução de testes manuais e automáticos
-- Executar testes em diversos ambientes e homologação
-- Apoiar a equipe de desenvolvimento abordando e esclarecendo bugs reportados
 - Automação de testes com Robot Framework
 - Competências: SQL, Python, Robot Framework
 
@@ -187,10 +147,12 @@ Copilot foi um co-autor neste projeto e economizou-me algumas horas de trabalho!
 
 Sempre aberto a novas oportunidades e colaborações. Vamos conectar! 🚀
 
-</div>
+</details>
 
-<!-- ENGLISH VERSION -->
-<div id="en" class="content-section">
+---
+
+<details>
+<summary><strong>🇺🇸 English</strong></summary>
 
 ## Diego Souza
 
@@ -214,8 +176,6 @@ If you are looking for a dedicated team player to create exceptional solutions, 
 Portland, Maine, United States · Remote  
 Sep 2023 - Jun 2024 · 10 months
 - Analysis, modeling, implementation, and execution of manual and automated tests
-- Executing tests in various environments and for homologation
-- Supporting the development team by addressing and clarifying reported bugs
 - Test automation with Robot Framework
 - Skills: SQL, Python (Programming Language), Robot Framework
 
@@ -334,31 +294,4 @@ Copilot was a co-author in this project and saved me a few hours of work!
 
 Always open to new opportunities and collaborations. Let's connect! 🚀
 
-</div>
-
-<script>
-  function showLanguage(lang) {
-    // Hide all sections
-    document.getElementById('pt').classList.remove('active');
-    document.getElementById('en').classList.remove('active');
-    
-    // Show selected language
-    document.getElementById(lang).classList.add('active');
-    
-    // Update button states
-    document.querySelectorAll('.lang-btn').forEach(btn => {
-      btn.classList.remove('active');
-    });
-    event.target.classList.add('active');
-    
-    // Save preference
-    localStorage.setItem('preferredLanguage', lang);
-  }
-  
-  // Load saved language preference
-  window.addEventListener('DOMContentLoaded', function() {
-    const saved = localStorage.getItem('preferredLanguage') || 'pt';
-    const lang = document.getElementById(saved) ? saved : 'pt';
-    showLanguage(lang);
-  });
-</script>
+</details>
