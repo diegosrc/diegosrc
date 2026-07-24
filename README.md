@@ -1,10 +1,11 @@
 ## Diego Souza
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiegosrc&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
-<div>
-  <a href="README_EN.md" target="_blank"> CV for English readers </a>
-  <p></p>
-  <a href="README_PT.md" target="_blank"> Currículo para leitores de Português</a>
+<div align="center">
+  <p>
+    <a href="README_EN.md" target="_blank"> CV for English readers </a> |
+    <a href="README_PT.md" target="_blank"> Currículo para leitores de Português</a>
+  </p>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiegosrc&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=profile%20visits&edge_flat=false" alt="Profile visits">
 </div>
 
 ## Habilidades/Skills
@@ -101,6 +102,18 @@
   <a href="Kanban" target="_blank"><img src="https://img.shields.io/badge/Kanban-007ACC?style=for-the-badge&logo=kanban&logoColor=white" target="_blank"></a>
   <a href="Scrum" target="_blank"><img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" target="_blank"></a>
   <a href="Waterfall" target="_blank"><img src="https://img.shields.io/badge/Waterfall-FF6F00?style=for-the-badge&logo=waterfall&logoColor=white" target="_blank"></a>
+</div>
+
+**Tools & Platforms**
+<div>
+  <a href="Braze" target="_blank"><img src="https://img.shields.io/badge/Braze-FF5733?style=for-the-badge&logo=braze&logoColor=white" target="_blank"></a>
+  <a href="NewRelic" target="_blank"><img src="https://img.shields.io/badge/NewRelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" target="_blank"></a>
+  <a href="Segment" target="_blank"><img src="https://img.shields.io/badge/Segment-00C7FD?style=for-the-badge&logo=segment&logoColor=white" target="_blank"></a>
+  <a href="Optimizely" target="_blank"><img src="https://img.shields.io/badge/Optimizely-003366?style=for-the-badge&logo=optimizely&logoColor=white" target="_blank"></a>
+  <a href="Argo" target="_blank"><img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" target="_blank"></a>
+  <a href="RabbitMQ" target="_blank"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" target="_blank"></a>
+  <a href="Cursor" target="_blank"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" target="_blank"></a>
+  <a href="Mixpanel" target="_blank"><img src="https://img.shields.io/badge/Mixpanel-25292E?style=for-the-badge&logo=mixpanel&logoColor=white" target="_blank"></a>
 </div>
 
 ## Contato
