@@ -27,6 +27,7 @@
   <a href="Oracle" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
   <a href="MySQL" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>  
   <a href="MariaDB" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" target="_blank"></a>
+  <a href="MongoDB" target="_blank"><img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
   <a href="DBeaver" target="_blank"><img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" target="_blank"></a>
 </div>
 
@@ -43,6 +44,7 @@
 <div>
   <a href="Selenium Webdriver" target="_blank"><img src="https://img.shields.io/badge/Selenium_Webdriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white" target="_blank"></a>
   <a href="Robot Framework" target="_blank"><img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" target="_blank"></a>
+  <a href="BrowserStack" target="_blank"><img src="https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white" target="_blank"></a>
 </div>
 
 
@@ -60,15 +62,15 @@
 </div>
 
 
-**Cloud**
-<div>
-  <a href="AWS" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
-</div>
-
-
 **Virtualization**
 <div>
   <p>Working in progress 🏗️</p>
+</div>
+
+**Cloud & Serverless**
+<div>
+  <a href="AWS" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
+  <a href="Lambda" target="_blank"><img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" target="_blank"></a>
 </div>
 
 **Locator Strategies**
@@ -105,15 +107,33 @@
 </div>
 
 **Tools & Platforms**
+
+**Analytics & Engagement**
 <div>
-  <a href="Braze" target="_blank"><img src="https://img.shields.io/badge/Braze-FF5733?style=for-the-badge&logo=braze&logoColor=white" target="_blank"></a>
-  <a href="NewRelic" target="_blank"><img src="https://img.shields.io/badge/NewRelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" target="_blank"></a>
+  <a href="Mixpanel" target="_blank"><img src="https://img.shields.io/badge/Mixpanel-25292E?style=for-the-badge&logo=mixpanel&logoColor=white" target="_blank"></a>
   <a href="Segment" target="_blank"><img src="https://img.shields.io/badge/Segment-00C7FD?style=for-the-badge&logo=segment&logoColor=white" target="_blank"></a>
+  <a href="Braze" target="_blank"><img src="https://img.shields.io/badge/Braze-FF5733?style=for-the-badge&logo=braze&logoColor=white" target="_blank"></a>
+</div>
+
+**Monitoring & Observability**
+<div>
+  <a href="NewRelic" target="_blank"><img src="https://img.shields.io/badge/NewRelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" target="_blank"></a>
+</div>
+
+**Experimentation & Feature Management**
+<div>
   <a href="Optimizely" target="_blank"><img src="https://img.shields.io/badge/Optimizely-003366?style=for-the-badge&logo=optimizely&logoColor=white" target="_blank"></a>
+</div>
+
+**DevOps & Message Queue**
+<div>
   <a href="Argo" target="_blank"><img src="https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" target="_blank"></a>
   <a href="RabbitMQ" target="_blank"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" target="_blank"></a>
+</div>
+
+**Development Tools**
+<div>
   <a href="Cursor" target="_blank"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" target="_blank"></a>
-  <a href="Mixpanel" target="_blank"><img src="https://img.shields.io/badge/Mixpanel-25292E?style=for-the-badge&logo=mixpanel&logoColor=white" target="_blank"></a>
 </div>
 
 ## Contato
