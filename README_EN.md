@@ -5,17 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qa-diego-souza)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegosouza.xp/)
 
-**Português** · [Currículo para leitores de Português](README_PT.md)
-
-**Home** · [Back to Home](README.md)
-
-<div align="center">
-
-### 📊 Profile Statistics
-
-![Profile Views](https://komarev.com/ghpvc/?username=diegosrc&style=flat-square&color=79C83D)
-
-</div>
+[Português](README_PT.md) · [Home](README.md)
 
 ---
 
