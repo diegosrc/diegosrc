@@ -103,6 +103,36 @@
 
 ---
 
-Copilot foi um co-autor neste projeto e economizou-me algumas horas de trabalho!
+## Schedule an Interview
 
-Sempre aberto a novas oportunidades e colaborações. Vamos conectar! 🚀
+<div align="center" style="padding:30px 0;">
+  <p style="font-size:16px; margin-bottom:15px; color:#333;">Interested in discussing opportunities? Schedule a time that works for you!</p>
+  <a href="https://calendly.com/your-calendly-url" target="_blank" style="display:inline-block; padding:12px 30px; background:#0077B5; color:white; text-decoration:none; border-radius:8px; font-weight:600; font-size:16px;">📅 Schedule Interview</a>
+</div>
+
+---
+
+## Skills Word Cloud
+
+<div align="center" style="padding:30px 0; line-height:2.5;">
+  <span style="font-size:32px; color:#3776AB; font-weight:bold; margin:5px;">Python</span>
+  <span style="font-size:24px; color:#F7DF1E; font-weight:600; margin:5px;">JavaScript</span>
+  <span style="font-size:28px; color:#43B02A; font-weight:bold; margin:5px;">Selenium</span>
+  <span style="font-size:22px; color:#005C84; font-weight:600; margin:5px;">MySQL</span>
+  <span style="font-size:26px; color:#FC6D26; font-weight:bold; margin:5px;">Testing</span>
+  <span style="font-size:20px; color:#13AA52; font-weight:600; margin:5px;">MongoDB</span>
+  <span style="font-size:25px; color:#007ACC; font-weight:bold; margin:5px;">Automation</span>
+  <span style="font-size:21px; color:#232F3E; font-weight:600; margin:5px;">AWS</span>
+  <span style="font-size:23px; color:#0052CC; font-weight:bold; margin:5px;">QA</span>
+  <span style="font-size:19px; color:#FF6C37; font-weight:600; margin:5px;">Postman</span>
+  <span style="font-size:24px; color:#003366; font-weight:bold; margin:5px;">API Testing</span>
+  <span style="font-size:20px; color:#6DB33F; font-weight:600; margin:5px;">Scrum</span>
+  <span style="font-size:22px; color:#FC6D26; font-weight:bold; margin:5px;">DevOps</span>
+  <span style="font-size:18px; color:#25292E; font-weight:600; margin:5px;">Analytics</span>
+  <span style="font-size:23px; color:#E34C26; font-weight:bold; margin:5px;">HTML5</span>
+  <span style="font-size:21px; color:#1CE783; font-weight:600; margin:5px;">Monitoring</span>
+  <span style="font-size:25px; color:#FF9900; font-weight:bold; margin:5px;">Cloud</span>
+  <span style="font-size:19px; color:#4000BF; font-weight:600; margin:5px;">Tools</span>
+</div>
+
+---
