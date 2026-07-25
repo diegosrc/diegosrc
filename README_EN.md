@@ -102,6 +102,10 @@ If you are looking for a dedicated team player to create exceptional solutions, 
 
 ## 🎯 Skills & Tools
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🤖 AI & Development
 ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
@@ -118,23 +122,6 @@ If you are looking for a dedicated team player to create exceptional solutions, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-### 🧪 Testing & QA
-
-**API Testing**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-
-**Test Automation & Frameworks**
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-**Performance & Load Testing**
-![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
-
-**Cloud Testing**
-![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white)
-
 ### 🖥️ Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -145,6 +132,26 @@ If you are looking for a dedicated team player to create exceptional solutions, 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 
+</td>
+<td width="50%">
+
+### 🧪 Testing & QA
+
+**API Testing**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+
+**Test Automation**
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**Performance Testing**
+![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+
+**Cloud Testing**
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white)
+
 ### 💡 Locator Strategies
 ![Xpath](https://img.shields.io/badge/Xpath-02569B?style=for-the-badge&logo=xpath&logoColor=white)
 ![CSS Selector](https://img.shields.io/badge/CSS_Selector-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -154,6 +161,10 @@ If you are looking for a dedicated team player to create exceptional solutions, 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ### 🚀 CI/CD & DevOps
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -177,6 +188,9 @@ If you are looking for a dedicated team player to create exceptional solutions, 
 
 ### 📡 Monitoring & Observability
 ![NewRelic](https://img.shields.io/badge/NewRelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
+
+### 🧪 Experimentation & Feature Management
+![Optimizely](https://img.shields.io/badge/Optimizely-003366?style=for-the-badge&logo=optimizely&logoColor=white)
 
 ---
 
