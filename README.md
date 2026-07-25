@@ -1,9 +1,9 @@
 ## Diego Souza
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logoColor=white)](https://wa.me/5519971454773?text=Olá%20Diego,%20encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20sua%20trajetória%20profissional)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logoColor=white)](mailto:qa.diegosouza@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/qa-diego-souza)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white)](https://www.instagram.com/diegosouza.xp/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge&logoColor=white)](https://wa.me/5519971454773?text=Olá%20Diego,%20encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20sua%20trajetória%20profissional)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:qa.diegosouza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/qa-diego-souza)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/diegosouza.xp/)
 
 [🇬🇧 English CV](README_EN.md) · [🇧🇷 Português CV](README_PT.md)
 
