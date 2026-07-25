@@ -5,10 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qa-diego-souza)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegosouza.xp/)
 
-<div align="center" style="display:flex; gap:15px; margin:20px 0; justify-content:center; flex-wrap:wrap;">
-  <a href="README_EN.md" style="padding:20px 40px; background:#007ACC; color:white; border-radius:8px; text-decoration:none; font-weight:bold; font-size:16px; box-shadow:0 4px 6px rgba(0,0,0,0.2); display:inline-block;">📄 English CV</a>
-  <a href="README_PT.md" style="padding:20px 40px; background:#27AE60; color:white; border-radius:8px; text-decoration:none; font-weight:bold; font-size:16px; box-shadow:0 4px 6px rgba(0,0,0,0.2); display:inline-block;">📄 Currículo PT</a>
-</div>
+[🇬🇧 English](README_EN.md) · [🇧🇷 Português](README_PT.md)
 
 ---
 
