@@ -107,7 +107,10 @@
 
 <div align="center" style="padding:30px 0;">
   <p style="font-size:16px; margin-bottom:15px; color:#333;">Interested in discussing opportunities? Schedule a time that works for you!</p>
-  <a href="https://calendar.google.com/calendar/u/0/r" target="_blank" style="display:inline-block; padding:12px 30px; background:#4285F4; color:white; text-decoration:none; border-radius:8px; font-weight:600; font-size:16px;">📅 Schedule Interview</a>
+  <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+    <a href="https://calendar.google.com/calendar/u/0/r/eventedit" target="_blank" style="display:inline-block; padding:12px 20px; background:#4285F4; color:white; text-decoration:none; border-radius:8px; font-weight:600; font-size:14px;">📅 Google Calendar</a>
+    <a href="mailto:qa.diegosouza@gmail.com?subject=Interview%20Scheduling&body=Hi%20Diego,%0A%0AI%20would%20like%20to%20schedule%20an%20interview%20at%20your%20earliest%20convenience." style="display:inline-block; padding:12px 20px; background:#D14836; color:white; text-decoration:none; border-radius:8px; font-weight:600; font-size:14px;">✉️ Email Me</a>
+  </div>
 </div>
 
 ---
