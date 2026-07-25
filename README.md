@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Habilidades
+## 🎯 Skills
 
 <table>
 <tr>
