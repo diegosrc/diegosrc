@@ -29,8 +29,21 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
 ## Experiência Profissional
 
 <div>
+  <h3>BEES</h3>
+  <h4>QA Senior I</h4>
+  <p>Remota · Brasil</p>
+  <p>nov de 2025 - Presente · 8 meses</p>
+  <ul>
+    <li>Qualidade & Experiência do Cliente: Possuir e elevar os padrões de qualidade AQ end-to-end, reconhecido pela liderança sênior. Garantiu go-lives estáveis e sem problemas para Browning Harvey e Labatt (Canadá) e Pepsico (Moçambique).</li>
+    <li>Processo & Automação: Liderei iniciativa de automação CARE, reduzindo tempo de processo de 36h para 4h (99% de melhoria), melhorando eficiência, consistência e escalabilidade nos workflows.</li>
+    <li>Mentalidade de Engenharia (SDET): Possuir GROW end-to-end—desde PRs até testes—construindo compreensão abrangente do ciclo de vida. Entregue independentemente ambiente de testes Antarctica com forte autonomia e profundidade técnica.</li>
+    <li>Colaboração & Inovação: Parceiro confiável para times de Produto, Engenharia e VSs, impulsionando adoção de IA e promovendo melhores práticas para simplificar workflows e melhorar efetividade de entrega.</li>
+  </ul>
+</div>
+
+<div>
   <h3>WEX</h3>
-  <h4>Quality Assurance Specialist II</h4>
+  <h4>Especialista em Garantia de Qualidade II</h4>
   <p>Portland, Maine, United States · Remota</p>
   <p>set de 2023 - jun de 2024 · 10 meses</p>
   <ul>

@@ -29,6 +29,19 @@ If you are looking for a dedicated team player to create exceptional solutions, 
 ## Professional Background
 
 <div>
+  <h3>BEES</h3>
+  <h4>QA Senior I</h4>
+  <p>Remote · Brazil</p>
+  <p>Nov 2023 - Present · 8 months</p>
+  <ul>
+    <li>Quality & Customer Experience: Owned and elevated AQ quality standards end-to-end, recognised by senior leadership. Ensured stable, issue-free go-lives for Browning Harvey and Labatt (Canada) and Pepsico (Mozambique).</li>
+    <li>Process & Automation: Led CARE automation initiative, reducing process time from 36h to 4h (99% improvement), enhancing efficiency, consistency and scalability across workflows.</li>
+    <li>Engineering Mindset (SDET): Owned GROW end-to-end—from PRs to testing—building comprehensive lifecycle understanding. Independently delivered Antarctica test environment with strong autonomy and technical depth.</li>
+    <li>Collaboration & Innovation: Trusted partner to Product, Engineering and VSs teams, driving AI adoption and promoting best practices to simplify workflows and improve delivery effectiveness.</li>
+  </ul>
+</div>
+
+<div>
   <h3>WEX</h3>
   <h4>Quality Assurance Specialist II</h4>
   <p>Portland, Maine, United States · Remote</p>

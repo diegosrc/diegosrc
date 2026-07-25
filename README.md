@@ -10,6 +10,30 @@
 
 ---
 
+## Currently At
+
+**BEES** • **QA Senior I** (Nov 2025 - Present) · Remote
+
+### Key Achievements
+
+**Quality & Customer Experience**
+- Owned and elevated AQ quality standards end-to-end, recognised by senior leadership
+- Ensured stable, issue-free go-lives for Browning Harvey and Labatt (Canada) and Pepsico (Mozambique)
+
+**Process & Automation**
+- Led CARE automation initiative: reduced process time from 36h to 4h (99% reduction)
+- Improved efficiency, consistency and scalability across workflows
+
+**Engineering Mindset (SDET)**
+- Owned GROW end-to-end—from PRs to testing—building full lifecycle understanding
+- Independently delivered Antarctica test environment, demonstrating technical depth and autonomy
+
+**Collaboration & Innovation**
+- Trusted partner to Product, Engineering and VSs teams
+- Drove AI adoption and promoted best practices to simplify workflows
+
+---
+
 ## Skills
 
 <table>
