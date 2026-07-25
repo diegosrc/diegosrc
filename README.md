@@ -91,6 +91,8 @@
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-25292E?logo=mixpanel&style=for-the-badge&logoColor=white)
 ![Segment](https://img.shields.io/badge/Segment-00C7FD?logo=segment&style=for-the-badge&logoColor=white)
 ![Braze](https://img.shields.io/badge/Braze-FF5733?logo=braze&style=for-the-badge&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&style=for-the-badge&logoColor=white)
+![Zendesk](https://img.shields.io/badge/Zendesk-03363D?logo=zendesk&style=for-the-badge&logoColor=white)
 
 ### Monitoring & Observability
 ![NewRelic](https://img.shields.io/badge/NewRelic-1CE783?logo=newrelic&style=for-the-badge&logoColor=white)
