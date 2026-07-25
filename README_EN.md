@@ -1,11 +1,13 @@
-## Diego Souza 
+## Diego Souza
 
-<div align="center">
-  <p>
-    <a href="README_PT.md" target="_blank"> 🇧🇷 Currículo para leitores de Português</a> |
-    <a href="README.md" target="_blank"> 🏠 Home</a>
-  </p>
-</div>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519971454773?text=Hi%20Diego,%20I%20found%20your%20profile%20on%20GitHub%20and%20would%20like%20to%20know%20more%20about%20your%20career)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qa.diegosouza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qa-diego-souza)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegosouza.xp/)
+
+**Português** · [Currículo para leitores de Português](README_PT.md)
+
+**Home** · [Back to Home](README.md)
 
 <div align="center">
 
@@ -185,9 +187,6 @@ If you are looking for a dedicated team player to create exceptional solutions, 
 
 ### 📡 Monitoring & Observability
 ![NewRelic](https://img.shields.io/badge/NewRelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
-
-### 🧪 Experimentation & Feature Management
-![Optimizely](https://img.shields.io/badge/Optimizely-003366?style=for-the-badge&logo=optimizely&logoColor=white)
 
 ---
 
