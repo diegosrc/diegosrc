@@ -1,9 +1,36 @@
 ## Diego Souza
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge&logoColor=white)](https://wa.me/5519971454773?text=Olá%20Diego,%20encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20sua%20trajetória%20profissional)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:qa.diegosouza@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/qa-diego-souza)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/diegosouza.xp/)
+<div style="display:flex; gap:15px; justify-content:flex-start; flex-wrap:wrap; padding:15px 0;">
+
+<a href="https://wa.me/5519971454773?text=Olá%20Diego,%20encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20saber%20mais%20sobre%20sua%20trajetória%20profissional" style="text-decoration:none;">
+  <div align="center" style="padding:12px 15px; border-radius:8px; background:#25D366;">
+    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp" />
+    <p style="margin:8px 0 0 0; font-size:12px; font-weight:600; color:white;">WhatsApp</p>
+  </div>
+</a>
+
+<a href="mailto:qa.diegosouza@gmail.com" style="text-decoration:none;">
+  <div align="center" style="padding:12px 15px; border-radius:8px; background:#D14836;">
+    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" />
+    <p style="margin:8px 0 0 0; font-size:12px; font-weight:600; color:white;">Gmail</p>
+  </div>
+</a>
+
+<a href="https://www.linkedin.com/in/qa-diego-souza" style="text-decoration:none;">
+  <div align="center" style="padding:12px 15px; border-radius:8px; background:#0077B5;">
+    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+    <p style="margin:8px 0 0 0; font-size:12px; font-weight:600; color:white;">LinkedIn</p>
+  </div>
+</a>
+
+<a href="https://www.instagram.com/diegosouza.xp/" style="text-decoration:none;">
+  <div align="center" style="padding:12px 15px; border-radius:8px; background:#E4405F;">
+    <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" />
+    <p style="margin:8px 0 0 0; font-size:12px; font-weight:600; color:white;">Instagram</p>
+  </div>
+</a>
+
+</div>
 
 [🇬🇧 English CV](README_EN.md) · [🇧🇷 Português CV](README_PT.md)
 
