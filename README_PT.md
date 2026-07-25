@@ -157,17 +157,12 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
 ![CSS Selector](https://img.shields.io/badge/CSS_Selector-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![ID Locator](https://img.shields.io/badge/ID-4CAF50?style=for-the-badge&logo=id&logoColor=white)
 
-### 🔧 Editores & IDEs
+### 🔧 IDEs & Editores
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%">
 
 ### 🚀 CI/CD & DevOps
