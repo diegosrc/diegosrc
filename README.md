@@ -75,6 +75,10 @@
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🚀 CI/CD & DevOps
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Argo](https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
@@ -90,6 +94,9 @@
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 ![Waterfall](https://img.shields.io/badge/Waterfall-FF6F00?style=for-the-badge&logo=waterfall&logoColor=white)
 
+</td>
+<td width="50%">
+
 ### 📈 Analytics & Engagement Platforms
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-25292E?style=for-the-badge&logo=mixpanel&logoColor=white)
 ![Segment](https://img.shields.io/badge/Segment-00C7FD?style=for-the-badge&logo=segment&logoColor=white)
@@ -100,6 +107,10 @@
 
 ### 🧪 Experimentation & Feature Management
 ![Optimizely](https://img.shields.io/badge/Optimizely-003366?style=for-the-badge&logo=optimizely&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
