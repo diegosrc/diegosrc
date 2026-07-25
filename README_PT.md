@@ -5,7 +5,14 @@
     <a href="README_EN.md" target="_blank"> 🇺🇸 CV for English readers </a> |
     <a href="README.md" target="_blank"> 🏠 Home</a>
   </p>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiegosrc&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visualizacoes&edge_flat=false" alt="Profile visits">
+</div>
+
+<div align="center">
+
+### 📊 Profile Statistics
+
+![Profile Views](https://komarev.com/ghpvc/?username=diegosrc&style=flat-square&color=79C83D)
+
 </div>
 
 ---
@@ -100,28 +107,6 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
 - Convergência Homem Máquina e a Singularidade 🤖
 - Cafés especiais ☕
 - Imagine Dragons, Arctic Monkeys, Marshmello, etc 🎛️
-
-## 🌟 Ferramentas Recém-Adicionadas
-
-### 💼 Novas Plataformas & Serviços
-![Braze](https://img.shields.io/badge/Braze-FF5733?style=for-the-badge&logo=braze&logoColor=white)
-![Segment](https://img.shields.io/badge/Segment-00C7FD?style=for-the-badge&logo=segment&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-25292E?style=for-the-badge&logo=mixpanel&logoColor=white)
-![Optimizely](https://img.shields.io/badge/Optimizely-003366?style=for-the-badge&logo=optimizely&logoColor=white)
-![NewRelic](https://img.shields.io/badge/NewRelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
-
-### 🚀 DevOps & Infraestrutura
-![Argo](https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-
-### 🗄️ Novo Banco de Dados
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 💻 Nova Ferramenta de Desenvolvimento
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
----
 
 ## 🎯 Habilidades & Ferramentas
 
