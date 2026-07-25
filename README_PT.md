@@ -130,7 +130,6 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
 
 ### ☁️ Cloud & Serverless
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 
 </td>
 <td width="50%">
@@ -151,6 +150,7 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
 
 **Teste em Nuvem**  
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 
 ### 💡 Estratégias de Localizador
 ![Xpath](https://img.shields.io/badge/Xpath-02569B?style=for-the-badge&logo=xpath&logoColor=white)
