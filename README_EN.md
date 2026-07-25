@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qa-diego-souza)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diegosouza.xp/)
 
-[🏠 Home](README.md) · [🇧🇷 Português](README_PT.md) · [🇬🇧 English](README_EN.md)
+[🏠 Home](README.md) · [🇧🇷 Português](README_PT.md)
 
 ---
 
