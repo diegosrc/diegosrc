@@ -100,7 +100,7 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
 - Cafés especiais ☕
 - Imagine Dragons, Arctic Monkeys, Marshmello, etc 🎛️
 
-## 🎯 Habilidades & Ferramentas
+## 🎯 Habilidades
 
 <table>
 <tr>
@@ -137,19 +137,19 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
 
 ### 🧪 Testes & QA
 
-**Teste de API**
+**Teste de API**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
-**Automação de Testes**
+**Automação de Testes**  
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-**Performance Testing**
+**Performance Testing**  
 ![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 
-**Teste em Nuvem**
+**Teste em Nuvem**  
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white)
 
 ### 💡 Estratégias de Localizador
