@@ -79,7 +79,7 @@
 ### Locator Strategies
 ![Xpath](https://img.shields.io/badge/Xpath-02569B?logo=xpath&style=for-the-badge&logoColor=white)
 ![CSS Selector](https://img.shields.io/badge/CSS_Selector-1572B6?logo=css3&style=for-the-badge&logoColor=white)
-![ID Locator](https://img.shields.io/badge/ID-4CAF50?style=for-the-badge&logoColor=white)
+![ID Locator](https://img.shields.io/badge/ID-4CAF50?logo=id&style=for-the-badge&logoColor=white)
 
 ### IDEs & Editors
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&style=for-the-badge&logoColor=white)
