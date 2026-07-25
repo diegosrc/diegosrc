@@ -4,24 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:qa.diegosouza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/qa-diego-souza)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/diegosouza.xp/)
-
-<!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3l_TfJ8wjdHOrO4yEhXfnk-cvWnSSotcLjWpiLAY4rAXKGluJO63nJUHCxtuwApsA7S6u79G48?gv=true',
-      color: '#039BE5',
-      label: 'Agende uma Entrevista',
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
+[![Agende Entrevista](https://img.shields.io/badge/Agende%20Entrevista-039BE5?logo=google-calendar&style=for-the-badge&logoColor=white)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ3l_TfJ8wjdHOrO4yEhXfnk-cvWnSSotcLjWpiLAY4rAXKGluJO63nJUHCxtuwApsA7S6u79G48?gv=true)
 
 [Home](README.md) · [🇬🇧 English CV](README_EN.md)
 
@@ -123,23 +106,3 @@ Se você procura um player equipe dedicado a criar soluções excepcionais, esto
 Copilot foi um co-autor neste projeto e economizou-me algumas horas de trabalho!
 
 Sempre aberto a novas oportunidades e colaborações. Vamos conectar! 🚀
-
----
-
-<!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3l_TfJ8wjdHOrO4yEhXfnk-cvWnSSotcLjWpiLAY4rAXKGluJO63nJUHCxtuwApsA7S6u79G48?gv=true',
-      color: '#039BE5',
-      label: 'Agende uma Entrevista',
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
