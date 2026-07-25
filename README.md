@@ -10,6 +10,28 @@
 
 ---
 
+## 🌟 Recently Added Tools
+
+### 💼 New Platforms & Services
+![Braze](https://img.shields.io/badge/Braze-FF5733?style=for-the-badge&logo=braze&logoColor=white)
+![Segment](https://img.shields.io/badge/Segment-00C7FD?style=for-the-badge&logo=segment&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-25292E?style=for-the-badge&logo=mixpanel&logoColor=white)
+![Optimizely](https://img.shields.io/badge/Optimizely-003366?style=for-the-badge&logo=optimizely&logoColor=white)
+![NewRelic](https://img.shields.io/badge/NewRelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
+
+### 🚀 DevOps & Infrastructure
+![Argo](https://img.shields.io/badge/Argo-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+
+### 🗄️ New Database
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 💻 New Development Tool
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+---
+
 ## 🎯 Habilidades & Ferramentas
 
 ### 🤖 AI & Development
